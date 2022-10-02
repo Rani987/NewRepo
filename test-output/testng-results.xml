@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T15:28:48 IST" name="Default suite" finished-at="2022-08-25T15:29:24 IST" duration-ms="36743">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T15:28:48 IST" name="Default test" finished-at="2022-08-25T15:29:24 IST" duration-ms="36743">
+      <class name="FkTest.FKTravelTestClass">
+        <test-method is-config="true" signature="initializeFk()[pri:0, instance:FkTest.FKTravelTestClass@32502377]" started-at="2022-08-25T15:28:48 IST" name="initializeFk" finished-at="2022-08-25T15:29:03 IST" duration-ms="15298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeFk -->
+        <test-method is-config="true" signature="login()[pri:0, instance:FkTest.FKTravelTestClass@32502377]" started-at="2022-08-25T15:29:03 IST" name="login" finished-at="2022-08-25T15:29:24 IST" duration-ms="21330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="m1()[pri:0, instance:FkTest.FKTravelTestClass@32502377]" started-at="2022-08-25T15:29:24 IST" name="m1" finished-at="2022-08-25T15:29:24 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- FkTest.FKTravelTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
